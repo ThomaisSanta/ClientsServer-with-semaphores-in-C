@@ -5,7 +5,7 @@
 **Test using:** ./project pink_floyd_lyrics.txt  K  N <br/>
 where K: number of clients that are about to ask a line from pink_floyd_lyrics.txt file <br/>
 and   N: number of requests each client can make in server <br/>
-<br/n>
-<br/n>g
+<br/> <br/> Here is an example after the execution of the current repository where 3 clients <br/>
+are making requests in a server and each client makes 4 requests <br/>
 
 
